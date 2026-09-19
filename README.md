@@ -25,6 +25,11 @@ For example:
 Xs Positions → [3, 4, 5]
 Os Positions → [1, 2]
 
+
+X is located in cells 3, 4, and 5
+O is located in cells 1 and 2
+
+
 # Technologies Used
 
 Technology	Purpose
@@ -33,6 +38,3 @@ OpenCV	        Image processing and computer vision
 NumPy	        Numerical operations
 Matplotlib	Image visualization
 Jupyter Notebook	Implementation and experimentation
-
-X is located in cells 3, 4, and 5
-O is located in cells 1 and 2
