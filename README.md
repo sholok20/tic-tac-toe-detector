@@ -32,9 +32,9 @@ O is located in cells 1 and 2
 
 # Technologies Used
 
-Technology	Purpose
-Python   	Main programming language
-OpenCV	        Image processing and computer vision
-NumPy	        Numerical operations
-Matplotlib	Image visualization
-Jupyter Notebook	Implementation and experimentation
+Technology	
+Python   	
+OpenCV	       
+NumPy	       
+Matplotlib	
+
