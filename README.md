@@ -32,7 +32,7 @@ O is located in cells 1 and 2
 
 # Technologies Used
 
-Technology	
+	
 Python   	
 OpenCV	       
 NumPy	       
